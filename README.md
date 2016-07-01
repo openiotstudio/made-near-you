@@ -2,7 +2,7 @@
 
 ### This project includes labels, a map and a website. The labels aim to show consumers in a visual way how far away their food has come from and where it has been processed. The map and website allow you to enter your postcode to generate an easy-to-print map of local food producers who sell to the public.
 
-*By Alexandra Deschamps-Sonsino
+*By Alexandra Deschamps-Sonsino at the Mozilla Open IoT Design Sprint in Anstruther, June 2016*
 
 <img src="img/designswarm_madenearyou_map.jpg">
 <img src="img/designswarm_madenearyou_foodlabels.jpg">
